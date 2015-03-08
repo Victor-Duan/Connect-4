@@ -1,0 +1,4 @@
+3
+images/AnimalHeader.png
+images/Whale.png
+images/Bird.png
